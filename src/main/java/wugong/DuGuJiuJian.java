@@ -8,6 +8,7 @@ public class DuGuJiuJian {
         System.err.println("第二招");
         System.err.println("上前直刺");
         System.err.println("第三招");
+        System.err.println("画地为牢");
         
 	}
 
